@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> Welcome to my website!
+subtitle: And yet I fear the future, hating tomorrow, wishing towards the past. - Night Sky Patrol of Tomorrow
 
 profile:
   align: right
@@ -15,5 +15,7 @@ profile:
 
 ---
 
-Specialist in Theoretical Statistics at University of Toronto, and experience with all sorts of programming languages both front-end and back-end. I love to draw in my free time, and all illustrations on this website are hand-drawn by me! With that being said, I also have plenty of experience in digital design programs that I use for my illustrations!
+Welcome to my website! Specialist in Theoretical Statistics at University of Toronto, and experience with all sorts of programming languages both front-end and back-end. Check out my CV for more information.
+
+I love to draw in my free time, and all illustrations on this website are hand-drawn by me! With that being said, I also have plenty of experience in digital design programs that I use for my illustrations!
 
