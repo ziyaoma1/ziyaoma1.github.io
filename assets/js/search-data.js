@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "I was all grown up before I knew it, and I&#39;d been through enough pain to know how to tell pretty lies. - glow (keeno)",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
