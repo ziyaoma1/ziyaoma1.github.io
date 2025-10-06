@@ -43,7 +43,7 @@
       "startDate": "2021-09-01",
       "endDate": "2025-07-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Software Design", "Theory of Computation", "Stochastic Methods", "Data Visualization", "Databases", " Data Science", "Real Analysis", "Data Visualization"]
     }
   ],
   "skills": [
