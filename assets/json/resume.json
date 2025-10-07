@@ -24,13 +24,18 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Ecomtent",
+      "position": "UI/UX designer",
+      "startDate": "2023-04-01",
+      "endDate": "2023-08-01",
+      "summary": "Create visually appealing and intuitive user interfaces for web and mobile applications"
+    },
+    {
+      "name": "SMBH",
+      "position": "Information Technology Support Specialist ",
+      "startDate": "2022-04-01",
+      "endDate": "2022-08-01",
+      "summary": "Designed a new website through wordpress(HTML code) for SMBH website, Help organize events"
     }
   ],
   "education": [
@@ -48,53 +53,55 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Coding",
+      "level": "Expert",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Java",
+        "Python",
+        "SQL",
+        "R",
+        "HTML",
+        "Git"
+      ]
+    },
+      {
+      "name": "Other",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Data Analysis",
+        "Linear Regression",
+        "Data Visualization",
+        "Graphic Design"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Mandarin",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+    {
+      "language": "French",
       "fluency": "Fluent",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Statistics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Data Science",
+        "Data Analytics",
+        "Artificial Intelligence"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
