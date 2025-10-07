@@ -55,7 +55,7 @@
   ],
   "skills": [
     {
-      "name": "Coding",
+      "name": "Technical",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -64,13 +64,7 @@
         "SQL",
         "R",
         "HTML",
-        "Git"
-      ]
-    },
-      {
-      "name": "Other",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
+        "Git",
         "Data Analysis",
         "Linear Regression",
         "Data Visualization",
