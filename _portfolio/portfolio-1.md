@@ -1,5 +1,5 @@
 ---
-title: "Leetcode Profile"
+title: "Leetcode Problems Solved"
 excerpt: "A collection of challenging problems I've solved, demonstrating my coding ability"
 collection: portfolio
 ---
