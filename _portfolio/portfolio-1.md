@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Leetcode Profile"
+excerpt: "A collection of challenging problems I've solved, demonstrating my coding ability<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Leetcode Profile](https://leetcode.com/u/kusoteitoku/)
+[Repository of solved problems](https://github.com/ziyaoma1/ziyaoma1.github.io)
