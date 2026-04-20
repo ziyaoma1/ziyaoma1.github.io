@@ -22,6 +22,8 @@ Achievements
 ======
 
 * [SQL Certificate](https://www.hackerrank.com/certificates/cb767de0cbb4)
+
+  
 Other Links
 ------
 [Leetcode](https://leetcode.com/u/kusoteitoku/)
