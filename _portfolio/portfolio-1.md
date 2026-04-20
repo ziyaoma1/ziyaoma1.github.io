@@ -5,4 +5,5 @@ collection: portfolio
 ---
 
 [Leetcode Profile](https://leetcode.com/u/kusoteitoku/)
-[Repository of solved problems](https://github.com/ziyaoma1/ziyaoma1.github.io)
+
+[Repository of LeetCode Contests(Timed, no external aids allowed)]([https://github.com/ziyaoma1/ziyaoma1.github.io](https://github.com/ziyaoma1/Leetcode-Contests))
