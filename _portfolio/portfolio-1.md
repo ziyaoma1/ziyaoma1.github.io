@@ -6,4 +6,4 @@ collection: portfolio
 
 [Leetcode Profile](https://leetcode.com/u/kusoteitoku/)
 
-[Repository of LeetCode Contests(Timed, no external aids allowed)]([https://github.com/ziyaoma1/ziyaoma1.github.io](https://github.com/ziyaoma1/Leetcode-Contests))
+[Repository of LeetCode Contests(Timed, no external aids allowed)]([https://github.com/ziyaoma1/Leetcode-Contests])
