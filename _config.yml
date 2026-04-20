@@ -23,7 +23,7 @@ repository               : "https://github.com/ziyaoma1/ziyaoma1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "logo.png"
   name             : "Ziyao Ma"
   pronouns         : "He/Him" 
   bio              : "Statistician"
