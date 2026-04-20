@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics, University of Toronto, 2021-2025
+* B.S. in Statistics and Mathematics, University of Toronto, 2021-2025
 
 Work experience
 ======
