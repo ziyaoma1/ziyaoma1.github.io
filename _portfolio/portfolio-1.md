@@ -1,6 +1,6 @@
 ---
 title: "Leetcode Profile"
-excerpt: "A collection of challenging problems I've solved, demonstrating my coding ability
+excerpt: "A collection of challenging problems I've solved, demonstrating my coding ability"
 collection: portfolio
 ---
 
