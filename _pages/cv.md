@@ -15,10 +15,12 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2023– August 2023: Front-End Developer Intern
+  * Hitek Logistic Inc.
+  * Developed and maintained financial modeling software modules using Python, Java, and SQL, enabling detailed cost and profit margin analysis that supported a 12% reduction in operational expenses for Hitek Logistic’s courier shipping services
+  * Built interactive frontend dashboards and data visualizations using JavaScript and React, along with Power BI and Tableau, analyzing market and competitor data that informed strategic decisions contributing to a 10% increase in revenue.
+  * Automated financial reporting processes by implementing ERP system enhancements with JavaScript and REST APIs, improving report accuracy and reducing monthly close time by 30%
+
   
 Programming Languages
 ======
