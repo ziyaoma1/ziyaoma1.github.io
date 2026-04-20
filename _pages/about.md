@@ -17,9 +17,11 @@ Coding Languages
 * C/C++
 * C#
 * SQL
+  
 Achievements
 ======
-[SQL Certificate](https://www.hackerrank.com/certificates/cb767de0cbb4)
+
+* [SQL Certificate](https://www.hackerrank.com/certificates/cb767de0cbb4)
 Other Links
 ------
 [Leetcode](https://leetcode.com/u/kusoteitoku/)
