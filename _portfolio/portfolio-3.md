@@ -1,8 +1,11 @@
 ---
-title: "No Merch No Life(Founder)"
-excerpt: "Javascript, TypeScript"
+title: "2D RPG"
+excerpt: "C#"
 collection: portfolio
 ---
 
-• Designed the storefront UI/UX using Figma and implemented the frontend with React and TypeScript, delivering a responsive and user-friendly shopping experience for collector’s merchandise backed by $10,000+ in investor funding.
-• Developed and maintained backend order processing and payment integration systems using Node.js and PayPal 
+• Implemented player combat systems such as HP, attack and experience, with enemy navigation and physics.
+• Implemented animations for player and enemy movements and attacks and animated map features.
+• Implemented load and save features using JSON and binary file formats.
+https://github.com/ziyaoma1/ziyaoma1.github.io/blob/master/assets/game_demo_compressed.mp4
+
